@@ -1,7 +1,7 @@
 ## BBB
 Basic Bulletin Board APIs for review
 
-#### 1. What I use
+#### 1. What I used
 - SpringBoot3
 - PostgreSQL
 
